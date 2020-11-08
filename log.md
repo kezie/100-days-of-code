@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 0: November 08, 2020
+##### (delete me or comment me out)
+
+**Today's Progress**: Registered on Freecodecamp. Finished the interactive HTML exercises
+**Thoughts:** teething, we will get the hang of 
+
+**Link to work:** https://twitter.com/kezielive/status/1325559012633567233?s=20
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
